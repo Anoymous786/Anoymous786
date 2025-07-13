@@ -1,60 +1,57 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">Frontend Developer | API Enthusiast | Open Source Contributor</h3>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708957/screenshots/4188877/media/5c3ab5cd5e6e11c2e748337b3f43b4f1.gif" />
-
-- 🔭 I’m currently working on **BrainSprint**, **WordWiise**, and **Postman Challenges**
-- 🌱 I’m learning **Next.js**, **API Automation**, and **Cloud Deployment**
-- 💬 Ask me about **React, APIs, Firebase, GitHub**
-- 📫 Reach me at **utsi22ise@cmrit.ac.in**
-
----
-
-### 🛠️ Tech Stack:
-
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,java,c,cpp)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind)
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
-
----
-
-### 📊 GitHub Stats:
+<h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | 🎓 Engineering Student | 💡 GSSoC 2024 Contributor</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=donut&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F76F00&center=true&vCenter=true&lines=Passionate+Coder;Tech+Explorer;Problem+Solver;Team+Player;Always+Learning+💻" />
 </p>
 
 ---
 
-### 🏆 GSSoC 2025 + Other Badges:
+### 🚀 My GitHub Stats
 
-![GSoC](https://img.shields.io/badge/GSSOC-2025-orange?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman%20Student%20Expert-blue?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Anoymous786&theme=github-dark&hide_border=true" height="165"/>
+</div>
 
----
-
-### 🔥 Featured Projects:
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🧠 BrainSprint | Next.js quiz app | [Repo](https://github.com/Anoymous786/BrainSprint-) |
-| 📘 WordWiise | Vocabulary web app | [Repo](https://github.com/Anoymous786/wordWIise) |
-| 📮 Postman Challenge | API testing project | [Repo](https://github.com/Anoymous786/Postman-Challenge) |
-| 📂 GSoC Archive | Proposal and docs | [Repo](https://github.com/Anoymous786/GSoC_2025) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
 ---
 
-### 📫 Connect with me:
+### 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Anoymous786)
+| Type | Tools |
+|------|-------|
+| *Languages* | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black) |
+| *Frontend* | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| *Tools* | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
-### 👀 Visitor Count
+### 🏆 GSSoC 2024 Badges
 
-![Visitor Count](https://profile-counter.glitch.me/Anoymous786/count.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-API--Fundamentals-orange?logo=postman" />
+  <img src="https://img.shields.io/badge/Git-Explorer-orange?logo=git" />
+  <img src="https://img.shields.io/badge/Code-Learner-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Pull-Expert-green?logo=github" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-singh-000000000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Anoymous786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile! 😄</p>
