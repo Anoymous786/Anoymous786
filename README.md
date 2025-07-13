@@ -16,22 +16,10 @@
 
 ---
 
-### ⚙ Tech Stack & Skills
+### ⚙ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,python,git,github,postman,vscode" alt="Tech Stack Icons" />
-</p>
-
-<p align="center">
-  ![HTML 90%](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge) 
-  ![CSS 85%](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge) 
-  ![JavaScript 80%](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge) 
-  ![TypeScript 70%](https://img.shields.io/badge/TypeScript-70%25-blue?style=for-the-badge) 
-  ![React 75%](https://img.shields.io/badge/React-75%25-lightblue?style=for-the-badge) 
-  ![Next.js 65%](https://img.shields.io/badge/Next.js-65%25-black?style=for-the-badge) 
-  ![Tailwind 70%](https://img.shields.io/badge/Tailwind-70%25-teal?style=for-the-badge) 
-  ![Python 60%](https://img.shields.io/badge/Python-60%25-blue?style=for-the-badge) 
-  ![Git 80%](https://img.shields.io/badge/Git-80%25-red?style=for-the-badge)
 </p>
 
 ---
@@ -45,7 +33,7 @@
 
 ---
 
-### 🏅 GSSoC + Badges
+### 🏅 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-API--Ninja-orange?style=flat-square&logo=postman" alt="Postman Badge" />
