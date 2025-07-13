@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🎓 Engineering Student | 💡 GSSoC 2024 Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76F00&center=true&vCenter=true&width=435&lines=Frontend+Craftsman+🛠;Postman+API+Champion+📮;Open+Source+Lover+🌍;Next.js+Learner+📚;Always+Exploring+🚀"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76F00&center=true&vCenter=true&width=435&lines=Frontend+Craftsman+🛠;Postman+API+Champion+📮;Open+Source+Lover+🌍;Next.js+Learner+📚;Always+Exploring+🚀" />
 </p>
 
 ---
