@@ -16,13 +16,13 @@
 
 ### 🧠 About Me
 
-ts
-const Utkarsh = {
-  role: "Full Stack Developer",
-  love: ["React", "Next.js", "APIs", "Clean UI"],
-  passion: "Open Source, Building Useful Products",
-  learning: "Advanced JS, Tailwind, DevOps",
-  motto: "Learn. Build. Share."
+Hi! I'm Utkarsh Singh, a passionate Full Stack Web Developer with a love for building clean and user-friendly web applications. I enjoy working with React, Next.js, and creating powerful APIs that solve real-world problems.
+
+I’m deeply involved in Open Source contributions and continuously learning new technologies like Advanced JavaScript, Tailwind CSS, and DevOps to level up my skills.
+
+My motto is:
+
+Learn. Build. Share.
 };
 
 🚀 Tech Stack
