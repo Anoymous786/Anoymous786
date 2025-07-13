@@ -14,15 +14,16 @@
 
 ---
 
-### 🧠 About Me
+🧠 About Me
+Hey there! 👋 I'm Utkarsh Singh — a Full Stack Developer who thrives on crafting sleek, scalable web apps with React, Next.js, and clean APIs.
 
-Hi! I'm Utkarsh Singh, a passionate Full Stack Web Developer with a love for building clean and user-friendly web applications. I enjoy working with React, Next.js, and creating powerful APIs that solve real-world problems.
+💡 I live for clean code, pixel-perfect UI, and open source magic. Constantly leveling up with Advanced JavaScript, Tailwind CSS, and exploring the world of DevOps.
 
-I’m deeply involved in Open Source contributions and continuously learning new technologies like Advanced JavaScript, Tailwind CSS, and DevOps to level up my skills.
+When I’m not coding, I’m building, sharing, and pushing boundaries — because learning never stops. 🚀
 
-My motto is:
+Motto:
 
-Learn. Build. Share.
+Learn. Build. Share. Repeat.
 };
 
 🚀 Tech Stack
