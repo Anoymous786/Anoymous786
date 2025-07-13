@@ -13,8 +13,6 @@
 - 💡 Love exploring new technologies and building side projects  
 - 🔭 Active contributor to *GSSoC 2024*, Postman challenges, and open source  
 - ✍ I write clean, efficient code and enjoy solving real-world problems  
-- 🎯 Currently working on: BrainSprint, WordWiise, and API testing tools  
-- 📬 Email: utsi22ise@cmrit.ac.in  
 
 ---
 
