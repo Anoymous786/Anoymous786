@@ -15,6 +15,7 @@
 ---
 
 🧠 About Me
+
 Hey there! 👋 I'm Utkarsh Singh — a Full Stack Developer who thrives on crafting sleek, scalable web apps with React, Next.js, and clean APIs.
 
 💡 I live for clean code, pixel-perfect UI, and open source magic. Constantly leveling up with Advanced JavaScript, Tailwind CSS, and exploring the world of DevOps.
