@@ -24,6 +24,17 @@
 
 ---
 
+### 📌 Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| 🩺 **[MediScope](https://github.com/Anoymous786/MediScope)** | Doctor recommendation & appointment booking system with disease prediction using ML |
+| 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Real-time quiz platform built with React & Next.js |
+| 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | API testing and automation using Postman + Newman |
+| 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | Predict sentiment of movie reviews using LSTM + Streamlit |
+
+---
+
 ### ⚙ Tech Stack
 
 <table align="center">
@@ -81,4 +92,4 @@
 
 ---
 
-<p align="center">Thanks for scrolling! 😊✨</p>
+<p align="center">Thanks for scrolling! 😊✨</p>
