@@ -1,26 +1,11 @@
 <h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 Engineering Student | 💡 Passionate About Building Scalable Web Apps</h3>
+<h3 align="center">🚀 Full Stack Developer | Engineering Student | GSSoC 2024 Contributor</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year B.E. in Information Science at *CMRIT, Bengaluru*  
-- 🌐 Currently exploring **ReactJS**, **Next.js**, **NodeJS**, and **MongoDB** to build full-stack solutions  
-- 💡 Actively building projects with **frontend** & **backend** integration and creating real-world applications
-- 🧠 Strong at solving problems, learning new technologies, and writing clean, efficient code from scratch
-- 🚀 Currently focused on **full-stack development** and open-source contributions
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🩺 **[MediScope](https://github.com/Anoymous786/MediScope)** | Disease prediction and doctor booking platform built with React, Next.js, and Node.js |
-| 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Real-time quiz platform with multiple categories, built with React.js and Next.js |
-| 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | REST API testing and automation using Postman with real-life scenarios |
-| 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | LSTM-based sentiment prediction with Streamlit UI for movie reviews |
+I'm a versatile full-stack developer focused on building innovative, original software solutions.
 
 ---
 
@@ -30,9 +15,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true" />
-</p>
+---
+
+### 📌 Highlight Projects
+
+| Project | Description |
+|---------|-------------|
+| 🩺 **[MediScope](https://github.com/Anoymous786/MediScope)** | Full-stack disease prediction & doctor booking system (React + Next.js + Node.js + MongoDB) |
+| 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Interactive quiz platform built with React.js, Next.js, Tailwind CSS |
+| 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | Hands-on REST API testing and automation challenges |
+| 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | Live sentiment prediction using LSTM and Streamlit |
+
+All projects are fully original, hosted on GitHub, and demonstrate practical, full-stack development.
 
 ---
 
@@ -43,8 +37,8 @@
     <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -74,6 +68,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
+</p>
 
 ---
 
