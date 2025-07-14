@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=cmake,makefile,shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=cmake,makefile,shell&custom_title=Tech%20Stack%20Usage%20(%25)&card_width=500" />
 </p>
 
 ---
