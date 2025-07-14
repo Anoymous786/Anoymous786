@@ -1,37 +1,29 @@
 <h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 Engineering Student | 💡 GSSoC 2024 Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | 🎓 Final Year B.E. Student | 💻 React & NodeJS Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing B.E. in Information Science at *CMRIT, Bengaluru*  
-- 💡 Love exploring new technologies and building side projects  
-- 🔭 Active contributor to *GSSoC 2024*, Postman challenges, and open source  
-- ✍ I write clean, efficient code and enjoy solving real-world problems  
+- 🎓 Final year B.E. in Information Science at *CMRIT, Bengaluru*  
+- 🌐 Focused on building full-stack web applications using **ReactJS**, **Next.js**, and **NodeJS**
+- 🚀 Experienced with real-world projects involving **frontend/backend API integration**, **authentication**, and **MongoDB**
+- 🧠 Strong problem-solving skills with clean, original codebase (no LLM-generated or plagiarized code)
+- ✨ Currently open to full-time developer opportunities
 
 ---
 
-### 🚀 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📌 Highlight Projects
+### 📌 Featured Projects (GitHub Shortlist Ready ✅)
 
 | Project | Description |
 |--------|-------------|
-| 🩺 **[MediScope](https://github.com/Anoymous786/MediScope)** | Doctor recommendation & appointment booking system with disease prediction using ML |
-| 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Real-time quiz platform built with React & Next.js |
-| 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | API testing and automation using Postman + Newman |
-| 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | Predict sentiment of movie reviews using LSTM + Streamlit |
+| 🩺 **[MediScope](https://github.com/Anoymous786/MediScope)** | Full-stack disease prediction & doctor booking system (ReactJS + Next.js + Node.js + MongoDB) |
+| 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Interactive quiz platform built with React.js, Next.js, Tailwind, with real-time features |
+| 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | Hands-on REST API testing and automation challenges completed without external templates |
+| 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | Streamlit + LSTM based text classifier for live sentiment prediction |
+
+✅ All projects are **coded originally by me**, hosted on GitHub, and follow good software practices.  
+❌ No LLM copy-paste, no LeetCode clones, and no auto-generated UIs.
 
 ---
 
@@ -49,10 +41,18 @@
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -68,13 +68,14 @@
 
 ---
 
-### 🏅 GSSoC & Postman Badges
+### 🚀 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-API--Fundamentals-orange?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Git-Explorer-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Code-Learner-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Pull-Expert-green?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -92,4 +93,4 @@
 
 ---
 
-<p align="center">Thanks for scrolling! 😊✨</p>
+<p align="center">Thanks for visiting! 😊✨</p>
