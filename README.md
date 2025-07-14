@@ -30,9 +30,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anoymous786&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoymous786&layout=compact&theme=radical&hide_border=true" />
-</p>
+---
+
+### 🚀 My Core Tech Stack (Used in Most Projects)
+
+| Frontend | Backend | Database | Tools & Platforms |
+|----------|---------|----------|-------------------|
+| ReactJS, Next.js | Node.js, Express.js | MongoDB | Vercel, GitHub, Postman |
+
+- ✅ Most of my projects are built using **MERN stack (MongoDB, Express, React, Node)**
+- 🧠 I also work with **authentication**, **REST APIs**, and **deployment (Vercel, Netlify)**
+- 🛠️ I avoid boilerplate or copied code — all logic is written by me manually
 
 ---
 
