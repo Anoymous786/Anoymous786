@@ -5,6 +5,7 @@
 
 ### 👨‍💻 About Me
 
+- 💼 Applying for full-stack roles where proficiency in **ReactJS/NextJS** (frontend) and **NodeJS** (backend) is essential
 - 🎓 Final Year B.E. in Information Science at *CMRIT, Bengaluru*  
 - 🌐 Currently exploring **ReactJS**, **Next.js**, **NodeJS**, and **MongoDB** to build full-stack solutions  
 - 💡 Actively building projects with **frontend** & **backend** integration and creating real-world applications
@@ -92,7 +93,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-singh-000000000/" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarsh746" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Anoymous786" target="_blank">
