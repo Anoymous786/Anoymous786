@@ -12,6 +12,7 @@
 - 🧠 Strong at solving problems, learning new technologies, and writing clean, efficient code from scratch
 - 🚀 Currently focused on **full-stack development** and open-source contribution
 
+
 ---
 
 ### 📌 Featured Projects
