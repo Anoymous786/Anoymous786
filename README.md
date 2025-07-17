@@ -10,7 +10,7 @@
 - 🌐 Currently exploring **ReactJS**, **Next.js**, **NodeJS**, and **MongoDB** to build full-stack solutions  
 - 💡 Actively building projects with **frontend** & **backend** integration and creating real-world applications
 - 🧠 Strong at solving problems, learning new technologies, and writing clean, efficient code from scratch
-- 🚀 Currently focused on **full-stack development** and open-source contributions
+- 🚀 Currently focused on **full-stack development** and open-source contribution
 
 ---
 
