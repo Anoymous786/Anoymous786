@@ -5,12 +5,19 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Applying for full-stack roles where proficiency in **ReactJS/NextJS** (frontend) and **NodeJS** (backend) is essential
-- 🎓 Final Year B.E. in Information Science at *CMRIT, Bengaluru*  
-- 🌐 Currently exploring **ReactJS**, **Next.js**, **NodeJS**, and **MongoDB** to build full-stack solutions  
-- 💡 Actively building projects with **frontend** & **backend** integration and creating real-world applications
-- 🧠 Strong at solving problems, learning new technologies, and writing clean, efficient code from scratch
-- 🚀 Currently focused on **full-stack development** and open-source contribution
+💼 Aspiring Software Developer actively applying for Full-Stack, Backend, and Python Developer roles
+
+🎓 Final Year B.E. in Information Science at CMRIT, Bengaluru
+
+🌐 Hands-on experience with ReactJS, Next.js, NodeJS, and MongoDB for building scalable full-stack applications
+
+🐍 Comfortable building automation scripts, backend services, and data-driven tools using Python
+
+💡 Adept at integrating frontend & backend systems, deploying real-world projects, and solving technical problems from the ground up
+
+🧠 Quick learner with strong debugging skills, clean coding practices, and a passion for building efficient, maintainable systems
+
+🚀 Currently focused on full-stack development, open-source contribution, and expanding into cloud and DevOps fundamentals
 
 
 ---
