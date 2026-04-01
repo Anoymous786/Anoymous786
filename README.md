@@ -1,25 +1,35 @@
-thats my readm file update it here
 <h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 Engineering Student | 💡 Passionate About Building Scalable Web Apps</h3>
+<h3 align="center">🤖 Junior AI Engineer | 🎓 Engineering Student | 🚀 Building Real-World AI Applications</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-💼 Aspiring Software Developer actively applying for Full-Stack, Backend, and Python Developer roles
+💼 Aspiring AI Engineer actively building and applying for roles in Generative AI, NLP, and Backend AI Systems  
 
-🎓 Final Year B.E. in Information Science at CMRIT, Bengaluru
+🎓 Final Year B.E. in Information Science at CMRIT, Bengaluru  
 
-🌐 Hands-on experience with ReactJS, Next.js, NodeJS, and MongoDB for building scalable full-stack applications
+🤖 Hands-on experience building AI-powered applications using LLMs, NLP, and Python  
 
-🐍 Comfortable building automation scripts, backend services, and data-driven tools using Python
+🌐 Strong foundation in full-stack development (React, Next.js, Node.js, MongoDB) for building end-to-end AI products  
 
-💡 Adept at integrating frontend & backend systems, deploying real-world projects, and solving technical problems from the ground up
+🐍 Comfortable developing backend services, automation scripts, and data-driven AI tools using Python  
 
-🧠 Quick learner with strong debugging skills, clean coding practices, and a passion for building efficient, maintainable systems
+💡 Adept at integrating AI models into real-world applications and solving problems from the ground up  
 
-🚀 Currently focused on full-stack development, open-source contribution, and expanding into cloud and DevOps fundamentals
+🧠 Quick learner with strong debugging skills, clean coding practices, and a passion for building efficient systems  
 
+🚀 Currently focused on Generative AI, RAG pipelines, and building intelligent applications  
+
+---
+
+### ⚡ What I Do
+
+- Build AI-powered features using **LLMs and Prompt Engineering**
+- Develop **RAG pipelines** using embeddings and vector databases (Chroma / Pinecone)
+- Integrate **Hugging Face models** for NLP tasks like classification, summarization, and embeddings
+- Create backend APIs using **FastAPI / Python** for AI applications
+- Experiment with model outputs, improve accuracy, and optimize performance
 
 ---
 
@@ -31,6 +41,8 @@ thats my readm file update it here
 | 🧠 **[BrainSprint](https://github.com/Anoymous786/BrainSprint-)** | Real-time quiz platform with multiple categories, built with React.js and Next.js |
 | 📬 **[Postman Challenge](https://github.com/Anoymous786/Postman-Challenge)** | REST API testing and automation using Postman with real-life scenarios |
 | 🔍 **[Sentiment Analysis App](https://github.com/Anoymous786/Sentiment-Analysis-Utkarsh)** | LSTM-based sentiment prediction with Streamlit UI for movie reviews |
+| 🤖 **AI Resume Analyzer (In Progress)** | NLP-based system to extract, analyze, and suggest improvements for resumes using LLMs |
+| 📄 **PDF Q&A System (RAG)** | Built a system to query documents using embeddings and vector search |
 
 ---
 
@@ -46,15 +58,14 @@ thats my readm file update it here
 
 ---
 
-### 🚀 My Core Tech Stack (Used in Most Projects)
+### 🚀 Core Tech Stack
 
-| Frontend | Backend | Database | Tools & Platforms |
-|----------|---------|----------|-------------------|
-| ReactJS, Next.js | Node.js, Express.js | MongoDB | Vercel, GitHub, Postman |
-
-- ✅ Most of my projects are built using **MERN stack (MongoDB, Express, React, Node)**
-- 🧠 I also work with **authentication**, **REST APIs**, and **deployment (Vercel, Netlify)**
-- 🛠️ I avoid boilerplate or copied code — all logic is written by me manually
+| AI / ML | Backend | Frontend | Tools |
+|--------|--------|----------|------|
+| LLM APIs (OpenAI, Gemini) | FastAPI, Node.js | ReactJS, Next.js | Git, Postman |
+| Prompt Engineering | REST APIs | HTML, CSS | Jupyter, VS Code |
+| RAG Pipelines | Express.js | | Vercel |
+| Hugging Face Transformers | | | |
 
 ---
 
@@ -70,19 +81,26 @@ thats my readm file update it here
     </td>
   </tr>
   <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HuggingFace-orange?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
@@ -90,12 +108,17 @@ thats my readm file update it here
     <td><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+      <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge"/>
     </td>
   </tr>
 </table>
+
+---
+
+### 🎯 Goal
+
+> To build fast, practical AI solutions that solve real-world problems and scale into production systems.
 
 ---
 
@@ -112,4 +135,4 @@ thats my readm file update it here
 
 ---
 
-<p align="center">Thanks for visiting! 😊✨</p>
+<p align="center">Thanks for visiting! 🚀</p>
