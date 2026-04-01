@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
-<h3 align="center">🤖 Junior AI Engineer | 🎓 Engineering Student | 🚀 Building Real-World AI Applications</h3>
+<h3 align="center">🤖 AI Engineer | 🎓 Engineering Student | 🚀 Building Real-World AI Applications</h3>
 
 ---
 
